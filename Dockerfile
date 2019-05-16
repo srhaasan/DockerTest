@@ -1,5 +1,5 @@
 From ubuntu
-label maintainer raj@verizon.com
+label maintainer srhaasan@gmail.com
 run mkdir /code
 copy Sample.sh /code/Sample.sh
 run chmod +x /code/Sample.sh
